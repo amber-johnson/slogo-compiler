@@ -13,4 +13,4 @@
 
 
 ### Project structure
-Please see the [README.md file](./cs-308-slogo-project-master/READEME.md) included in our project submission for a breakdown of java classes and individual contributions.  
+Please see the [README.md file](cs-308-slogo-project-master/READEME.md) included in our project submission for a breakdown of java classes and individual contributions.  
